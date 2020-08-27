@@ -13,6 +13,10 @@ You also have an option to exit the program.
 
 ### 📖 How to use
 
+Just type the values and press Enter. It can be Int or Float variables.
+
+Follow the instructions to each operation.
+
 ![use](https://user-images.githubusercontent.com/56608210/91496712-fdd9cc80-e892-11ea-95d2-1270813b872c.gif)
 
 
