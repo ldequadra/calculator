@@ -28,7 +28,7 @@ pip install pyinstaller
 
 Once you have installed, navigate to the folder where your project is.
 
-**Example:** if my file is named `calculator.py` and it's on `C:\Desktop\Program` folder.
+**Example:** if the file is named `calculator.py` and it's on `C:\Desktop\Program` folder.
 _Open the terminal and type:_
 
 ```markdown
