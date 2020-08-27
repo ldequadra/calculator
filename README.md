@@ -20,12 +20,17 @@ You can use the [editor on GitHub](https://github.com/ldequadra/ldequadra.github
 
 ### 💻 If you want to make an .exe file
 
+You can use PyInstaller for generate .exe files of Python projects.
+
+Open your terminal and navigate to the folder where your projetc is.
+
+Example: if my file is `calculator.py` and is on _C:\Desktop\calculator_ folder.
+
 ```markdown
-Syntax highlighted code block
-
-**Bold** and _Italic_ and `Code` text
-
+**cd desktop**
 ```
+
+`cd calculator`
 
 For more details see [PyInstaller](https://www.pyinstaller.org/) page.
 
