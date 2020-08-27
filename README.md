@@ -45,9 +45,7 @@ Then, type the following code to generate the `.exe` file.
 pyinstaller calculator.py
 ```
 
-****************************** GIF ***************************
-
-* The `.exe` file will be on ADAHGSDUASGBDUAYSGDBIUYASGDBIUYASGD folder
+* The `.exe` file will be in `\dist\calculator` folder with the name **`calculator.exe`**.
 
 For more details see [PyInstaller](https://www.pyinstaller.org/) page.
 
