@@ -15,7 +15,8 @@ You also have an option to exit the program.
 ![use](https://user-images.githubusercontent.com/56608210/91496712-fdd9cc80-e892-11ea-95d2-1270813b872c.gif)
 
 
-### 💻 If you want to make an .exe file
+### 💻 If you want to make an `.exe` file
+### 💻 If you want to make an _.exe_ file
 
 You can use **PyInstaller** to generate .exe files of Python projects.
 
