@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### How to use
 
-**************   RIGHT HERE THE GIF
+![use](https://user-images.githubusercontent.com/56608210/91496712-fdd9cc80-e892-11ea-95d2-1270813b872c.gif)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
