@@ -22,9 +22,9 @@ You can use the [editor on GitHub](https://github.com/ldequadra/ldequadra.github
 
 You can use **PyInstaller** to generate .exe files of Python projects.
 
-Open your terminal and navigate to the folder where your projetc is.
+Open your terminal and navigate to the folder where your project is.
 
-**Example: if my file is `calculator.py` and is on _C:\Desktop\calculator_ folder.**
+**Example:** if my file is named `calculator.py` and it's on _C:\Desktop\calculator_ folder.
 _Open the terminal and type:_
 
 ```markdown
