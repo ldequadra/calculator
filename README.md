@@ -24,17 +24,17 @@ You can use PyInstaller for generate .exe files of Python projects.
 
 Open your terminal and navigate to the folder where your projetc is.
 
-Example: if my file is `calculator.py` and is on _C:\Desktop\calculator_ folder.
+**Example: if my file is `calculator.py` and is on _C:\Desktop\calculator_ folder.**
 
 ```markdown
-**cd desktop**
+cd desktop
 ```
 
-`cd calculator`
+```markdown
+cd calculator
+```
 
 For more details see [PyInstaller](https://www.pyinstaller.org/) page.
-
-The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contributing
 
