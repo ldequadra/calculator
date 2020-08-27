@@ -1,6 +1,6 @@
 # Calculator
 
-## 📖 Simple calculator with basic operations
+## Simple calculator with basic operations
 
 It's just a simple project of a calculator with the most basic operations:
 - Addition
@@ -10,7 +10,7 @@ It's just a simple project of a calculator with the most basic operations:
 
 You also have an option to exit the program.
 
-### 💻 How to use
+### 📖 How to use
 
 ![use](https://user-images.githubusercontent.com/56608210/91496712-fdd9cc80-e892-11ea-95d2-1270813b872c.gif)
 
